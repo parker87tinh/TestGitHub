@@ -1,0 +1,10 @@
+
+/Sound/blackJack.wav
+/Sound/click_coin.wav
+/Sound/main_music.caf
+/Sound/new/click.caf////
+/Sound/new/collectcoin.caf/////
+/Sound/new/fail.mp3////
+/Sound/new/play_music.mp3
+/Sound/sound4.wav
+/Sound/suffle.wav
