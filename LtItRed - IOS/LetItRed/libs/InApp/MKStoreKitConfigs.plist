@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<dict>
+		<key>com.goldcoin.LetItRed.1000Coins</key>
+		<dict>
+			<key>Count</key>
+			<integer>1000</integer>
+			<key>Name</key>
+			<string>com.goldcoin.LetItRed.1000Coins</string>
+		</dict>
+		<key>com.goldcoin.LetItRed.2500Coins</key>
+		<dict>
+			<key>Count</key>
+			<real>2500</real>
+			<key>Name</key>
+			<string>com.goldcoin.LetItRed.2500Coins</string>
+		</dict>
+		<key>com.goldcoin.LetItRed.6000Coins</key>
+		<dict>
+			<key>Count</key>
+			<real>6000</real>
+			<key>Name</key>
+			<string>com.goldcoin.LetItRed.6000Coins</string>
+		</dict>
+		<key>com.goldcoin.LetItRed.14000Coins</key>
+		<dict>
+			<key>Count</key>
+			<real>14000</real>
+			<key>Name</key>
+			<string>com.goldcoin.LetItRed.140000Coins</string>
+		</dict>
+		<key>com.goldcoin.LetItRed.30000Coins</key>
+		<dict>
+			<key>Count</key>
+			<real>30000</real>
+			<key>Name</key>
+			<string>com.goldcoin.LetItRed.30000Coins</string>
+		</dict>
+	</dict>
+	<key>Non-Consumables</key>
+	<array>
+		<string>com.goldcoin.LetItRedFree.RemoveAds</string>
+	</array>
+	<key>Subscriptions</key>
+	<dict/>
+</dict>
+</plist>
